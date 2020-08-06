@@ -5,10 +5,8 @@ We will work on a customer dataset, our goal is to apply customer segmentation o
 
 To identify customer segments hidden in the data, we will apply an unsupervised learning technique. We will first understand, manipulate, and process the dataset. Thereafter, we will focus on **Visualizing the data using different plots such as Heatmap, Pairplot, Boxplot, Distributionplot, Countplot and histogram aiming to reveal and analyze the data insights.** Then, we will implement a clustering algorithm (K-mean) to segment the customer data. Finally, we will visualize the segmentation found (clusters) and analyze them.
 ## Data Description
-We have the Automobile dataset "auto.csv". It was obtained through the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data.
-
-The datasets has 205 rows and 27 columns containing the cars' characteristics such as 'symboling', 'normalized-losses', 'maker', 'fuel-type', 'aspiration',
-'num-of-doors', 'body-style', etc.
+We have the customers dataset "customer.csv". It has 850 rows and 10 columns containing the customers' information such as 'Customer Id', 'Age', 'Eduucation', 'Years Employed',
+'Income', etc.
 ## Project Steps
 All the project steps are organized and listed below:
 ### 1. Data Import
