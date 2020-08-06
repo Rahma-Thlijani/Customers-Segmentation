@@ -1,8 +1,11 @@
 ![Image](customer1.png)
-# Customers-Segmentation
+# Clustering-Customers-Segmentation
+We will work on a customer dataset, our goal is to apply customer segmentation on this historical data. Customer segmentation is the practice of partitioning a customer base into groups of individuals that have similar characteristics. It is a significant strategy as a business can target these specific groups of customers and effectively allocate marketing resources. For example, one group might contain customers who are high-profit and low-risk, that is, more likely to purchase products, or subscribe for a service. 
 
-
-Data science project, in which we will focus on applying: **Data processing, Exploratory Data Analysis (EDA), Data Visualization, Feature Selection, and Multiple Regression model** aiming to predict a car price.
+To identify customer segments hidden in the data, we will apply an unsupervised learning technique. We will first understand, manipulate, and process the dataset. Thereafter, we will focus on Visualizing the data using different plots such as Heatmap, Pairplot, Boxplot, Distributionplot, Countplot and histogram aiming to reveal and analyze the data insights. Then, we will implement a clustering algorithm (K-mean) to segment the customer data. Finally, we will visualize the segmentation found (clusters) and analyze them.
+ 
+ 
+In  science project, in which we will focus on applying: **Data processing, Exploratory Data Analysis (EDA), Data Visualization, Feature Selection, and Multiple Regression model** aiming to predict a car price.
 ## Data Description
 We have the Automobile dataset "auto.csv". It was obtained through the following link: https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data.
 
