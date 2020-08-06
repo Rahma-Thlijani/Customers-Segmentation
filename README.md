@@ -21,5 +21,5 @@ All the project steps are organized and listed below:
 * Distribution plot and insights 
 * Countplot, Histogram and insights
 ### 7. Model Development
-* model training
+* K-mean
 * Clusters Visualization and Analysis
